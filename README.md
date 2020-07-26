@@ -1,2 +1,2 @@
 # omerhijazi404.github.io
-GitHub Pages repo
+My GitHub Pages Repo
