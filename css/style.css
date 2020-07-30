@@ -181,6 +181,11 @@ h2 {
 }
 
 .sigma-bg-red {
+	background-color: red;
+	color: #FFF;
+}
+
+.sigma-bg-brown {
 	background-color: #A52;
 	color: #FFF;
 }
