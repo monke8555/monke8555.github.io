@@ -210,6 +210,26 @@ h2 {
 	color: #FFF;
 }
 
+.sigma-bg-turquoise {
+	background-color: #08E1D7;
+	color: #FFF;
+}
+
+.sigma-bg-orange {
+	background-color: #F76300;
+	color: #FFF;
+}
+
+.sigma-bg-teal {
+	background-color: #007C7C;
+	color: #FFF;
+}
+
+.sigma-bg-magenta {
+	background-color: #CE0273;
+	color: #FFF;
+}
+
 /* Sigma BG Colors --- END */
 
 .sigma-copyright {
